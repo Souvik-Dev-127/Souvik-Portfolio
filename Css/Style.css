@@ -147,6 +147,11 @@ footer a:hover{
   line-height: 1.6;
   margin-bottom: 14px;
 }
+.card.poem:hover{
+  transform: translateY(-4px);
+  transition: transform .2s ease;
+}
+
 .row.g-4{
   margin-top: 24px;
 }
